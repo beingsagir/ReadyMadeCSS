@@ -1,0 +1,123 @@
+body{
+	font-size: 100%;
+	background-color: #f6f2eb;
+	color: #524d46;
+  text-align: center;
+  margin:3em;
+}
+
+
+/*******************************************************
+	button_0_rmc Style
+
+	This is the css for all the button in common
+********************************************************/
+
+.button_0_rmc a{
+	text-align: center;
+	display: inline-block;
+	color: #404040;
+	background-color: #ccc;
+	margin-bottom: 2em;
+  	text-decoration:none;
+  	min-width: 10em
+}
+
+
+
+/*******************************************************
+	button_1_rmc Style
+
+	This is the css for all the button in common
+********************************************************/
+
+.button_1_rmc a{
+	text-align: center;
+	display: inline-block;
+	border-radius:0 10px 0 10px;
+	color: #404040;
+	background-color: #ccc;
+	margin-bottom: 2em;
+  	text-decoration:none;
+  	min-width: 10em
+}
+
+
+
+/*******************************************************
+	button_2_rmc Style
+
+	This is the css for all the button in common
+********************************************************/
+
+.button_2_rmc a{
+	text-align: center;
+	display: inline-block;
+	border-radius:10px 10px 10px 10px;
+	color: #404040;
+	background-color: #ccc;
+	margin-bottom: 2em;
+  	text-decoration:none;
+  	min-width: 10em
+}
+
+/*******************************************************
+	btn11 Style
+********************************************************/
+
+.btn_11 a{
+	color: #f6f2eb;
+	background-color: #db0058;
+}
+
+.btn_11 a:hover{
+	color: #fc6651;
+	background-color: #8e0039;
+	min-width: 10em
+}
+
+/*******************************************************
+	btn22 Style
+********************************************************/
+
+.btn_22 a{
+	color: #f6f2eb;
+	background-color: #4b11ae;
+}
+
+.btn_22 a:hover{
+	color: #fc6651;
+	background-color: #2c0571;
+	min-width: 10em
+}
+
+/*******************************************************
+	btn33 Style
+********************************************************/
+
+.btn_33 a{
+	color: white;
+	background-color: #009999;
+}
+
+.btn_33 a:hover{
+	color: black;
+	background-color: #006363;
+	min-width: 10em
+}
+
+/*******************************************************
+	btn33 Style
+********************************************************/
+
+.btn_44 a{
+	color: #f6f2eb;
+	background-color: #ff8b00;
+
+}
+
+.btn_44 a:hover{
+	color: #fc6651;
+	background-color: #A65A00;
+	min-width: 10em
+}
